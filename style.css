@@ -1,0 +1,19 @@
+html {
+    font-size: 20px;
+  }
+
+  body {
+    background-color: lightsteelblue;
+  }
+
+  a{
+    color: aliceblue;
+  }
+
+  a:visited{
+    color: forestgreen;
+  }
+  
+  a:hover, a:active{
+    color: black;
+  }
